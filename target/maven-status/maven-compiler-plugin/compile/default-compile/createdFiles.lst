@@ -1,0 +1,9 @@
+com\app\entities\Orders.class
+com\app\entities\Products.class
+com\app\entities\Users.class
+com\app\entities\UsersInfo.class
+com\app\entities\Role.class
+com\app\Application.class
+com\app\controllers\ProductsController.class
+com\app\services\ProductsServices.class
+com\app\repositories\ProductsRepository.class
